@@ -27,7 +27,7 @@ int main() {
     char task[TASK_LENGTH];
     int taskIndex;
 
-    //To-do list Check
+    //To-Do List Starting!
     while (1) {
         printf("\nTo-Do List Manager\n");
         printf("1. List tasks\n");
